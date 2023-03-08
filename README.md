@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### My Stats as of today:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robomez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robomez&hide=javascript&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
